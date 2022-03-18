@@ -1,0 +1,22 @@
+{
+  "name": "mod9_redo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichealJWEllis/mod9_redo.git"
+  },
+  "author": "MichealJwEllis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichealJWEllis/mod9_redo/issues"
+  },
+  "homepage": "https://github.com/MichealJWEllis/mod9_redo#readme",
+  "dependencies": {
+    "inquirer": "^8.2.1"
+  }
+}
