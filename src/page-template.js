@@ -15,7 +15,7 @@ const generateAbout = (aboutText) => {
 const generateProjects = (projectsArr) => {
     return `
         <section class="my-3" id="portfolio">
-            <h2 class="text-dark bg-primary p-2 display-inline-block">Work</h2>
+            <h2 class="text-dark bg-primary p-2 display-inline-block">Projects:</h2>
             <div class="flex-row justify-space-between">
             ${projectsArr
             .filter(({ feature }) => feature)
